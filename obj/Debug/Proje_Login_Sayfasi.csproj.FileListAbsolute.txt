@@ -1,0 +1,72 @@
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\bin\Debug\Proje_Login_Sayfasi.exe.config
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\bin\Debug\Proje_Login_Sayfasi.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\bin\Debug\Proje_Login_Sayfasi.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Form1.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Sifremi_Unuttum.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Yeni_Hesap_Ekleme.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Şifre_Yenileme.resources
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\bin\Debug\Proje_Login_Sayfasi.exe.config
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\bin\Debug\Proje_Login_Sayfasi.exe
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\bin\Debug\Proje_Login_Sayfasi.pdb
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Form1.resources
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Sifremi_Unuttum.resources
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Yeni_Hesap_Ekleme.resources
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Şifre_Yenileme.resources
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.exe
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.pdb
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\bin\Debug\Vt.mdb
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\bin\Debug\Proje_Login_Sayfasi.exe.config
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\bin\Debug\Proje_Login_Sayfasi.exe
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\bin\Debug\Proje_Login_Sayfasi.pdb
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Form1.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Soru1.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Sifremi_Unuttum.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Soru10.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Soru2.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Soru3.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Soru4.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Soru5.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Soru6.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Soru7.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Soru8.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Soru9.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Yeni_Hesap_Ekleme.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Şifre_Yenileme.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.exe
+C:\Users\LENOVO\Desktop\Bilgi_Yarışması\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.pdb
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\bin\Debug\Vt.accdb
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Orta.resources
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.SeviyeSecimi.resources
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Kolay.resources
+C:\Users\LENOVO\Desktop\Proje_Login_Sayfasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Zor.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Form1.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Orta.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.SeviyeSecimi.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Kolay.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Sifremi_Unuttum.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.SonucKolay.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.SonucOrta.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.SonucZor.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Yeni_Hesap_Ekleme.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Zor.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.Şifre_Yenileme.resources
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.exe
+C:\Users\LENOVO\Desktop\Bilgi_Yarismasi\Proje_Login_Sayfasi\obj\Debug\Proje_Login_Sayfasi.pdb
